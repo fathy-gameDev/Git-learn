@@ -1,6 +1,4 @@
 # learning-Git
 for zero course
-course qweqwexzcz
-now edit clean
-sdssdsd
+here's some branch editing
 https://fathy-gamedev.github.io/Git-learn/
