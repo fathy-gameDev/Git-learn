@@ -1,4 +1,4 @@
 # learning-Git
 for zero course
-here's some branch editing
+the edit of main branch
 https://fathy-gamedev.github.io/Git-learn/
